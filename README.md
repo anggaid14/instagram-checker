@@ -1,3 +1,3 @@
 # instagram-checker
-Instagram Account Checker
-<h2> how to run : run.php namefile.txt </h2>
+Instagram Account Checker CLI checked username,id,followers,following
+<h2> how to run : run.php list.txt </h2>
